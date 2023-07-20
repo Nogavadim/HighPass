@@ -39,3 +39,13 @@ https://nogavadim.github.io/HighPass/
 6. Соблюдён код-стайл курса (вплоть до порядка свойств).
 
 
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+gulp build
+```
+
